@@ -1,0 +1,19 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\soliy\eclipse-workspace\small_game_FX\SmallGameFX.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-22
+Substitute:	PATH = C:\Program Files\Java\jdk-22\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Apache\apache-maven-3.9.9\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\WiX Toolset v3.11\bin;C:\Users\soliy\AppData\Local\Microsoft\WindowsApps;
+JRE paths:	C:\Program Files\Java\jdk-22;C:\Program Files\Java\jdk-22\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Apache\apache-maven-3.9.9\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\WiX Toolset v3.11\bin;C:\Users\soliy\AppData\Local\Microsoft\WindowsApps;
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	--module-path "C:\Program Files\JavaFX\javafx-sdk-21\lib" --add-modules javafx.controls,javafx.fxml -Dprism.order=sw -jar "C:\Users\soliy\eclipse-workspace\small_game_FX\SmallGameFX.exe"
+Args length:	186/32768 chars
+Exit code:	0
