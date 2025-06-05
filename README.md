@@ -10,7 +10,6 @@ SmallGameFX is a JavaFX-based desktop GUI game that implements a Rock-Paper-Scis
 - GUI interaction and animated feedback
 - Score tracking and round-based game control
 - Dynamic player/computer move rendering
-- Serialization for simple game state management
 - GUI design using JavaFX and FXML
 
 ## Tech Stack
